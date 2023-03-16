@@ -1,5 +1,5 @@
 # Unreal-Achievement-OnlineToolBox
-An exemple of a online toolbox plugin made for a network course to get player stats and achievements from Epic Online Game Services
+An exemple of a online toolbox plugin made for a network course (8INF916 - Programmation réseau dans les jeux vidéo) to get player stats and achievements from Epic Online Game Services
 
 All the source code for the plugin is in 
 Plugins/OnlineToolbox/Source/OnlineToolbox 
