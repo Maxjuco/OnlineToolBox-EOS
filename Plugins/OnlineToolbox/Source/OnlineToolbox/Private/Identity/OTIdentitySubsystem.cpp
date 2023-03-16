@@ -43,7 +43,7 @@ void UOTIdentitySubsystem::Login()
 
 	FOnlineAccountCredentials Creds;
 	Creds.Type = "Developer";
-	Creds.Token = "majean2_8inf916";
+	Creds.Token = "maxjuco";
 	Creds.Id = "localhost:44444";
 	IdentityInterface->Login(0, Creds);
 }
